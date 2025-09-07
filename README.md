@@ -4,7 +4,7 @@ Aplikasi web modern dan responsif untuk mengelola inventaris perangkat keras jar
 
 ## Fitur Utama
 
-- **Dasbor Interaktif**: Visualisasi data utama seperti total barang, barang dengan stok menipis, barang rusak vs. normal, dan ringkasan transaksi terkini.
+- **Dashboard Interaktif**: Visualisasi data utama seperti total barang, barang dengan stok menipis, barang rusak vs. normal, dan ringkasan transaksi terkini.
 - **Manajemen Inventaris (CRUD)**: Tambah, lihat, ubah, dan hapus perangkat. Termasuk detail seperti merek, kategori, jumlah, status stok, dan kondisi (Normal/Rusak).
 - **Pelacakan Transaksi**: Catat semua barang masuk dan keluar dengan detail seperti sumber/tujuan, pengirim/penerima, dan pengguna yang menangani. Termasuk filter berdasarkan rentang tanggal.
 - **Manajemen Pengguna (CRUD)**: Kelola pengguna dengan dua peran: **Administrator** (akses penuh) dan **Staf Gudang** (hanya lihat).
